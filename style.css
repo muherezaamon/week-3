@@ -1,0 +1,21 @@
+label, input {
+	display: block;
+}
+div {
+	padding: 30px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 35px;
+}
+
